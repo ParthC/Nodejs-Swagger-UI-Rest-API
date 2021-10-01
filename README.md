@@ -1,5 +1,3 @@
-# Nodejs-Swagger-UI-Rest-API
-
 # Documentation of REST API by using swagger-ui and nodejs express framework
 
 - Ensure that you have [node.js](https://nodejs.org/en/) installed.
@@ -16,4 +14,5 @@ npm install
 npm run dev
 ```
 
-- View the docs from [ClickMe](http://localhost:4000/api-docs)
+- View the docs from Please click on the link below 
+- http://localhost:4000/api-docs
