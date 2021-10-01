@@ -1,6 +1,8 @@
 # Documentation of REST API by using swagger-ui and nodejs express framework
 
-- Ensure that you have [node.js](https://nodejs.org/en/) installed.
+- Ensure that you have [node.js](https://nodejs.org/en/) installed
+
+- Clone the project
 
 - Install the dependencies
 
